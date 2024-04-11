@@ -21,8 +21,8 @@ While it is not mandatory, it is highly encouraged for every participant to pres
 
 We offer two types of talks at the event:
 
-Light Talk: Consists of a 10-minute presentation followed by a 5-minute question-and-answer session.
-Keynote Talk (1 to 2 per day): Features a 25-minute presentation with an additional 5 minutes for questions.
+**Light Talk**: Consists of a 10-minute presentation followed by a 5-minute question-and-answer session.
+**Keynote Talk** (1 to 2 per day): Features a 25-minute presentation with an additional 5 minutes for questions.
 Participants are asked to provide a meaningful (preliminary) title during registration to facilitate the scheduling of talk sessions. To support the presentations, we will provide a video projector equipped with VGA and HDMI ports, as well as a laser pointer.
 
 The preliminary schedule of our scientific program will be announced soon. TBA
