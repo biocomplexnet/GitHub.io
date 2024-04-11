@@ -6,7 +6,7 @@
     <title>3rd Summer Retreat on Bioinformatics and Complex Networks 2024</title>
     <style>
         body {
-            font-size: 18px;
+            font-size: 18px; /* Updated from 12px to 18px for better readability */
             text-align: justify;
             font-family: Arial, sans-serif;
             background-color: #CAE4FF; /* Light sky blue background */
