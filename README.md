@@ -5,7 +5,7 @@ We are thrilled to announce that this year's event will take place from **July 2
 
 <img src="Imgs/1_3rd Summer Camp.png" class="img-responsive" alt="">
 
-The **3rd Summer Retreat on Bioinformatics and Complex Networks** offers a unique, one-week experience filled with bioinformatics workshops, insightful talks, and extensive networking opportunities. The retreat focuses on a wide array of topics, including biological, computational, and mathematical fields, fostering a multidisciplinary dialogue. This year the event is organized by the [Bioinformatics and Complex Networks Lab](https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales) at CINVESTAV Irapuato, Guanajuato and the [Regeneration Lab](http://varelab.lavis.unam.mx) at UNAM Campus Juriquilla, Queretaro. 
+The **3rd Summer Retreat on Bioinformatics and Complex Networks** offers a unique, one-week experience filled with bioinformatics workshops, insightful talks, and extensive networking opportunities. The retreat focuses on a wide array of topics, including biological, computational, and mathematical fields, fostering a multidisciplinary dialogue. This year the event is organized by the [Bioinformatics and Complex Networks Lab](https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales) at CINVESTAV Irapuato, Guanajuato and the [Developmental Genomics and Regeneration Lab](http://varelab.lavis.unam.mx) at UNAM Campus Juriquilla, Queretaro. 
 
 Take a glimpse into our previous retreats and stay updated by following us on X [@BioinfoComplexN](https://twitter.com/BioinfoComplexN)
 
@@ -81,7 +81,7 @@ Check-in will be at the Hotel La Casona Minera reception from 3 PM to 6 PM. If y
 -PhD Katia Aviña-Padilla, 
 PhD Eliana Valencia-Lozano.
 
-**Regeneration Lab, UNAM Campus Juriquilla**
+**Developmental Genomics and Regeneration Lab, UNAM Campus Juriquilla**
 -PhD Wilbert Gutiérrez Sarmiento,
 PhD Flor Citlally Alcantar-Aguirre.
 
