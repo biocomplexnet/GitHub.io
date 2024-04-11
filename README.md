@@ -31,13 +31,14 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to the 3rd "Summer Retreat on Bioinformatics and Complex Networks" 2024!</h1>
-    <p>We are thrilled to announce that this year's event will take place from July 28th to August 3rd, 2024. Join us at the picturesque Hotel La Casona Minera, nestled in the charming town of Mineral de Pozos, Guanajuato, Mexico.</p>
+    <h1>Welcome to the "3rd Summer Retreat on Bioinformatics and Complex Networks 2024" !!</h1>
+    <p>We are thrilled to announce that this year's event will take place from <strong> 28th to August 3rd, 2024.</strong>
+    Join us at the picturesque Hotel La Casona Minera, nestled in the charming town of Mineral de Pozos, Guanajuato, Mexico.</p>
     <img src="Imgs/1_3rd Summer Camp.png" class="img-responsive" alt="Summer Retreat Venue">
 
     <p>The <strong>3rd Summer Retreat on Bioinformatics and Complex Networks</strong> offers a unique, one-week experience filled with bioinformatics workshops, insightful talks, and extensive networking opportunities. The retreat focuses on a wide array of topics, including biological, computational, and mathematical fields, fostering a multidisciplinary dialogue. This year the event is organized by the <a href="https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales">Bioinformatics and Complex Networks Lab</a> at CINVESTAV Irapuato, Guanajuato and the <a href="http://varelab.lavis.unam.mx">Regeneration Lab</a> at UNAM Campus Juriquilla, Queretaro.</p>
 
-    <p>Take a glimpse into our previous retreats and stay updated by following us on Twitter <a href="https://twitter.com/BioinfoComplexN">@BioinfoComplexN</a></p>
+    <p>Take a glimpse into our previous retreats and stay updated by following us on X <a href="https://twitter.com/BioinfoComplexN">@BioinfoComplexN</a></p>
 
     <h2>Location</h2>
     <p>The event will take place at <a href="https://lacasonahotel.com/">Hotel La Casona Minera</a>, located in the heart of Mineral de Pozos, Guanajuato. This "Pueblo Mágico" enchants visitors with its historic ruins, cobblestone streets, pre-Hispanic music and instruments, and a rich tapestry of crafts, jewelry, traditions, legends, and temazcales. It is a place that promises a sanctuary of peace, tranquility, rich culture, and entertainment.</p>
