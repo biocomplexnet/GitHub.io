@@ -84,6 +84,8 @@ PhD Eliana Valencia-Lozano.
 -PhD Wilbert Gutiérrez Sarmiento,
 PhD Flor Citlally Alcantar-Aguirre.
 
+**LAVIS (Laboratorio Nacional de Visualizacion Cientifica Avanzada, UNAM Campus Juriquilla**
+
 <img src="Imgs/4_3rd Summer Camp.png" class="img-responsive" alt="">
 
 # Feel free to contact us via mail if you have any inquiries: **bioinfoandcomplexnetworks@gmail.com**
