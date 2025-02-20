@@ -1,15 +1,15 @@
-# Welcome to the 3rd "Summer Retreat on Bioinformatics and Complex Networks 2024"!
+# Welcome to the 4th "Summer Retreat on Bioinformatics and Complex Networks 2025"!
 
-We are thrilled to announce that this year's event will take place from **July 28th to August 3rd, 2024**. Join us at the picturesque Hotel La Casona Minera, nestled in the charming town of Mineral de Pozos, Guanajuato, Mexico.
+We are thrilled to announce that this year's event will take place from **July 13th to 19th, 2025**. Join us at the picturesque Hotel La Casona Minera, located in the beautiful and magical colonial city of Antigua, Guatemala.
 
 <img src="Imgs/1_3rd Summer Camp.png" class="img-responsive" alt="">
 
-The **3rd Summer Retreat on Bioinformatics and Complex Networks** offers a unique, one-week experience filled with bioinformatics workshops, insightful talks, and extensive networking opportunities. The retreat focuses on a wide array of topics, including biological, computational, and mathematical fields, fostering a multidisciplinary dialogue. This year the event is organized by the [Bioinformatics and Complex Networks Lab](https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales) at CINVESTAV Irapuato, Guanajuato and the [Developmental Genomics and Regeneration Lab](http://varelab.lavis.unam.mx) at UNAM Campus Juriquilla, Queretaro. 
+The **4th Summer Retreat on Bioinformatics and Complex Networks** offers a unique, one-week experience filled with bioinformatics workshops, insightful talks, and extensive networking opportunities. The retreat focuses on a wide array of topics, including biological, computational, and mathematical fields, fostering a multidisciplinary dialogue. This year the event is organized by the [Bioinformatics and Complex Networks Lab](https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales) at CINVESTAV Irapuato, Guanajuato and the [Developmental Genomics and Regeneration Lab](http://varelab.lavis.unam.mx) at UNAM Campus Juriquilla, Queretaro. 
 
 Take a glimpse into our previous retreats and stay updated by following us on X [@BioinfoComplexN](https://twitter.com/BioinfoComplexN)
 
 # Location
-The event will take place at [Hotel La Casona Minera](https://lacasonahotel.com/)([C. 5 de Mayo, Zona Centro, 36000 Guanajuato, Gto.](https://maps.app.goo.gl/oMv2D1HGpW67FeMDA)., located in the heart of Mineral de Pozos, Guanajuato. This "Pueblo Mágico" enchants visitors with its historic ruins, cobblestone streets, pre-Hispanic music and instruments, and a rich tapestry of crafts, jewelry, traditions, legends, and temazcales. It is a place that promises a sanctuary of peace, tranquility, rich culture, and entertainment.
+The event will take place at [Hotel La Casona Minera](https://lacasonahotel.com/)([C. 5 de Mayo, Zona Centro, 36000 Guanajuato, Gto.](https://maps.app.goo.gl/oMv2D1HGpW67FeMDA)., located in the heart of Antigua, Guatemala. This beautiful and magical colonial city enchants visitors with its colonial monuments, museums, cathedrals, handicrafts, and natural beauties. It is a place that promises a sanctuary of peace, tranquility, rich culture, and entertainment.
 <img src="Imgs/2_3rd Summer Camp.png" class="img-responsive" alt="">
 
 The hotel offers fifteen well-appointed rooms. The recommended Double room features a single King-size bed, while the Quadruple room includes two Queen-size beds and can accommodate up to five guests, with each room providing a private bathroom. If you are traveling alone and open to the idea of sharing a room with another attendee, please indicate this preference on the registration form. This arrangement not only fosters networking but also makes the stay more economical.
@@ -74,15 +74,15 @@ Check-in will be at the Hotel La Casona Minera reception from 3 PM to 6 PM. If y
 - **Payments:**  Hotel La Casona Minera accepts credit/debit cards for dining expenses, including lunch and dinner. Additionally, we will provide an account number for those who wish to reserve their rooms in advance
 - **Internet:** WiFi is available throughout Hotel La Casona Minera, although coverage may vary in different rooms.
 
-# 2024 Organizing committee
+# 2025 Organizing committee
 
 **Bioinformatics and Complex Networks Lab, CINVESTAV UI**
 -PhD Katia Aviña-Padilla, 
-PhD Eliana Valencia-Lozano.
+PhD Elizabeth Cadenas-Castrejón.
 
-**Developmental Genomics and Regeneration Lab, UNAM Campus Juriquilla**
--PhD Wilbert Gutiérrez Sarmiento,
-PhD Flor Citlally Alcantar-Aguirre.
+**Centro Universitario de Zacapa, Guatamala**
+-PhD Manuel Alejandro Barrios-Isaz,
+PhD .
 
 **LAVIS (Laboratorio Nacional de Visualizacion Cientifica Avanzada), UNAM Campus Juriquilla**
 <img src="Imgs/4_3rd Summer Camp.png" class="img-responsive" alt="">
