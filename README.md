@@ -82,9 +82,10 @@ PhD Elizabeth Cadenas-Castrejón.
 
 **Centro Universitario de Zacapa, Guatamala**
 -PhD Manuel Alejandro Barrios-Isaz,
-PhD .
+
+
 
 **LAVIS (Laboratorio Nacional de Visualizacion Cientifica Avanzada), UNAM Campus Juriquilla**
-<img src="Imgs/4_3rd Summer Camp.png" class="img-responsive" alt="">
+<img src="Imgs/2_4th_summer.jpeg" class="img-responsive" alt="">
 
 # Feel free to contact us via mail if you have any inquiries: **bioinfoandcomplexnetworks@gmail.com**
