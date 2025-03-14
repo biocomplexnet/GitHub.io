@@ -1,15 +1,15 @@
 # Welcome to the 4th "Summer Retreat on Bioinformatics and Complex Networks 2025"!
 
-We are thrilled to announce that this year's event will take place from **July 13th to 19th, 2025**. Join us at the picturesque Hotel La Casona Minera, located in the beautiful and magical colonial city of Antigua, Guatemala.
+We are thrilled to announce that this year's event will take place from **July 13th to 19th, 2025**. Join us at the pictures Colegio Mayor Santo Tomás de Aquino, located in the beautiful and magical colonial city of Antigua, Guatemala.
 
-<img src="Imgs/2_3rd Summer Camp.png" class="img-responsive" alt="">
+<img src="Imgs/5_4th_summer.jpeg" class="img-responsive" alt="">
 
-The **4th Summer Retreat on Bioinformatics and Complex Networks** offers a unique, one-week experience filled with bioinformatics workshops, insightful talks, and extensive networking opportunities. The retreat focuses on a wide array of topics, including biological, computational, and mathematical fields, fostering a multidisciplinary dialogue. This year the event is organized by the [Bioinformatics and Complex Networks Lab](https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales) at CINVESTAV Irapuato, Guanajuato and the [Centro Universitario de Zacapa (https://cunzac.usac.edu.gt/) at Guatamala]. 
+The **4th Summer Retreat on Bioinformatics and Complex Networks** offers a unique, one-week experience filled with bioinformatics workshops, insightful talks, and extensive networking opportunities. The retreat focuses on a wide array of topics, including biological, computational, and mathematical fields, fostering a multidisciplinary dialogue. This year the event is organized by the [Bioinformatics and Complex Networks Lab](https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales) at CINVESTAV Irapuato, Guanajuato and the Centro Universitario de Zacapa (https://cunzac.usac.edu.gt/) at Guatamala. 
 
 Take a glimpse into our previous retreats and stay updated by following us on X [@BioinfoComplexN](https://twitter.com/BioinfoComplexN)
 
 # Location
-The event will take place at [Colegio Mayor Santo Tomás de Aquino (https://digeu.usac.edu.gt/colegio-mayor-santo-tomas-de-aquino/)([2da. Avenida 12-40, zona 1 Ciudad de Guatemala (https://maps.app.goo.gl/f2yQFCfo5HnfmM1V7)., located of Antigua, Guatemala. This beautiful and magical colonial city enchants visitors with its colonial monuments, museums, cathedrals, handicrafts, and natural beauties. It is a place that promises a sanctuary of peace, tranquility, rich culture, and entertainment.
+The event will take place at Colegio Mayor Santo Tomás de Aquino (https://digeu.usac.edu.gt/colegio-mayor-santo-tomas-de-aquino/), 2nd Avenue 12-40, zone 1 Guatemala City (https://maps.app.goo.gl/f2yQFCfo5HnfmM1V7), located of Guatemala. This beautiful and magical colonial city enchants visitors with its colonial monuments, museums, cathedrals, handicrafts, and natural beauties. It is a place that promises a sanctuary of peace, tranquility, rich culture, and entertainment.
 <img src="Imgs/2_3rd Summer Camp.png" class="img-responsive" alt="">
 
 The hotel offers fifteen well-appointed rooms. The recommended Double room features a single King-size bed, while the Quadruple room includes two Queen-size beds and can accommodate up to five guests, with each room providing a private bathroom. If you are traveling alone and open to the idea of sharing a room with another attendee, please indicate this preference on the registration form. This arrangement not only fosters networking but also makes the stay more economical.
