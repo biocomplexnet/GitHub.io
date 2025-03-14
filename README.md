@@ -81,7 +81,10 @@ Check-in will be at the Hotel La Casona Minera reception from 3 PM to 6 PM. If y
 PhD Elizabeth Cadenas-Castrejón.
 
 **Centro Universitario de Zacapa, Guatamala**
--PhD Manuel Alejandro Barrios-Isaz,
+-PhD Manuel Alejandro Barrios-Izás,
+-PhD michelle Bustamannte-Castillo,
+-Iván Daniel Alvarado-Vargas
+
 
 
 
