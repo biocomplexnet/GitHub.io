@@ -2,7 +2,7 @@
 
 We are thrilled to announce that this year's event will take place from **July 13th to 19th, 2025**. Join us at the picturesque Hotel La Casona Minera, located in the beautiful and magical colonial city of Antigua, Guatemala.
 
-<img src="Imgs/1_3rd Summer Camp.png" class="img-responsive" alt="">
+<img src="Imgs/5_34rd Summer.jpeg" class="img-responsive" alt="">
 
 The **4th Summer Retreat on Bioinformatics and Complex Networks** offers a unique, one-week experience filled with bioinformatics workshops, insightful talks, and extensive networking opportunities. The retreat focuses on a wide array of topics, including biological, computational, and mathematical fields, fostering a multidisciplinary dialogue. This year the event is organized by the [Bioinformatics and Complex Networks Lab](https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales) at CINVESTAV Irapuato, Guanajuato and the [Centro Universitario de Zacapa (https://cunzac.usac.edu.gt/) at Guatamala]. 
 
