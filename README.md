@@ -9,7 +9,7 @@ The **4th Summer Retreat on Bioinformatics and Complex Networks** offers a uniqu
 Take a glimpse into our previous retreats and stay updated by following us on X [@BioinfoComplexN](https://twitter.com/BioinfoComplexN)
 
 # Location
-The event will take place at [Hotel La Casona Minera](https://lacasonahotel.com/)([C. 5 de Mayo, Zona Centro, 36000 Guanajuato, Gto.](https://maps.app.goo.gl/oMv2D1HGpW67FeMDA)., located in the heart of Antigua, Guatemala. This beautiful and magical colonial city enchants visitors with its colonial monuments, museums, cathedrals, handicrafts, and natural beauties. It is a place that promises a sanctuary of peace, tranquility, rich culture, and entertainment.
+The event will take place at [Colegio Mayor Santo Tomás de Aquino (https://digeu.usac.edu.gt/colegio-mayor-santo-tomas-de-aquino/)([2da. Avenida 12-40, zona 1 Ciudad de Guatemala (https://maps.app.goo.gl/f2yQFCfo5HnfmM1V7)., located of Antigua, Guatemala. This beautiful and magical colonial city enchants visitors with its colonial monuments, museums, cathedrals, handicrafts, and natural beauties. It is a place that promises a sanctuary of peace, tranquility, rich culture, and entertainment.
 <img src="Imgs/2_3rd Summer Camp.png" class="img-responsive" alt="">
 
 The hotel offers fifteen well-appointed rooms. The recommended Double room features a single King-size bed, while the Quadruple room includes two Queen-size beds and can accommodate up to five guests, with each room providing a private bathroom. If you are traveling alone and open to the idea of sharing a room with another attendee, please indicate this preference on the registration form. This arrangement not only fosters networking but also makes the stay more economical.
